@@ -1,0 +1,1 @@
+# Singelton design pattern
